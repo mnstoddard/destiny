@@ -1,3 +1,4 @@
 voila
 ipywidgets
 requests
+jupyter-notebookparams
